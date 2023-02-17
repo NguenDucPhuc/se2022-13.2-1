@@ -83,4 +83,3 @@ Các đơn vị tuyển dung lập trình viên blockchain, kỹ sư blockchain 
 - Bất động sản (Property)
 - Nông nghiệp (Agricultural)
 - Khai thác (Mining)
-- 
